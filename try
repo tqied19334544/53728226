@@ -1,3 +1,4 @@
+ResultSet rs = ps.executeQuery();
 con=DriverManager.getConnection(url, userName, password);
 OracleJdbcTest test = new OracleJdbcTest();
 BufferedWriter out = null;
