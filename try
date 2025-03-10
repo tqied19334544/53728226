@@ -1,3 +1,4 @@
+} finally {
 ResultSet rs = ps.executeQuery();
 ResultSet rs = ps.executeQuery();
 con=DriverManager.getConnection(url, userName, password);
