@@ -1,3 +1,4 @@
+ps.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 } finally {
 ResultSet rs = ps.executeQuery();
