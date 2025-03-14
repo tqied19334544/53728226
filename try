@@ -1,3 +1,4 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 public void fetch() throws SQLException, IOException
 ps.close();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
