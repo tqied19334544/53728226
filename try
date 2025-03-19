@@ -1,3 +1,4 @@
+if (out != null) {
 try {
 Class.forName(driverClass);
 String driverClass = "oracle.jdbc.driver.OracleDriver";
