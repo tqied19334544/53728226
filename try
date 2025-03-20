@@ -1,3 +1,4 @@
+test.init();
 con=DriverManager.getConnection(url, userName, password);
 if (out != null) {
 try {
