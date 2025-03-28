@@ -1,3 +1,4 @@
+while (rs.next())
 } finally {
 // do the thing you do
 } finally {
