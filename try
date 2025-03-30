@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 // do the thing you do
 while (rs.next())
 } finally {
